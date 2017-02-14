@@ -1,0 +1,16 @@
+/* Style Page for Movie trailer project */
+
+body {
+  background-color: lightgray;
+}
+
+h2 {
+  font-family: 'Eczar', serif;
+  font-weight: bold;
+}
+
+.title {
+  font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+  font-weight: bold;
+}
