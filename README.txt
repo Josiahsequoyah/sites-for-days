@@ -8,5 +8,4 @@ Files include: 	index.html
 		fresh_tomatoes.py
 		media.py
 		trailers.css
-To view final project open index.html
-		
+To run project open command prompt and run python etnertainment_center.py
